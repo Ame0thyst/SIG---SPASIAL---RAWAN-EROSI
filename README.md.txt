@@ -1,1 +1,0 @@
-![hasil akhir](./hasil.png)
